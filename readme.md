@@ -1,0 +1,1 @@
+In aula01 is created a function that returns a sum of given array, it is possible to dictate from  which index to which index to sum should starts and finish, maikng sure that it do not goes out bounds.
